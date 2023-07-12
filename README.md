@@ -3,17 +3,18 @@
 Technology: Python (pandas, numpy, matplotlib, seaborn, sklearn libraries)
 
 Dataset: https://www.kaggle.com/anjusukumaran4/code
-Data visualization is the creation of visual representations of data. These representations clearly communicate insights from data through charts and graphs.
-Python provides various libraries that come with different features for visualizing data. Data visualization is an easier way of presenting the data, however complex it is, to analyze trends and relationships amongst variables with the help of pictorial representation.
 
-Some of the advantages of Data Visualization are
+#### Data visualization is the creation of visual representations of data. These representations clearly communicate insights from data through charts and graphs.
+#### Python provides various libraries that come with different features for visualizing data. Data visualization is an easier way of presenting the data, however complex it is, to analyze trends and relationships amongst variables with the help of pictorial representation.
 
-➡️ Easier representation of compels data
+#### Some of the advantages of Data Visualization are
 
-➡️ Highlights good and bad performing areas
+#### ➡️ Easier representation of compels data
 
-➡️ Explores relationship between data points
+#### ➡️ Highlights good and bad performing areas
 
-➡️ Identifies data patterns even for larger data points 
+#### ➡️ Explores relationship between data points
 
-There are a lot of python libraries which could be used to build visualization like matplotlib, vispy, bokeh, seaborn, pygal, folium, plotly, cufflinks, and networkx. Of the many, matplotlib and seaborn seems to be very widely used for basic to intermediate level of visualizations.
+#### ➡️ Identifies data patterns even for larger data points 
+
+#### There are a lot of python libraries which could be used to build visualization like matplotlib, vispy, bokeh, seaborn, pygal, folium, plotly, cufflinks, and networkx. Of the many, matplotlib and seaborn seems to be very widely used for basic to intermediate level of visualizations.
