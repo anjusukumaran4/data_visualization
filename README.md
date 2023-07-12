@@ -1,4 +1,8 @@
 # Data Visualization - Python
+
+Technology: Python (pandas, numpy, matplotlib, seaborn, sklearn libraries)
+
+Dataset: https://www.kaggle.com/anjusukumaran4/code
 Data visualization is the creation of visual representations of data. These representations clearly communicate insights from data through charts and graphs.
 Python provides various libraries that come with different features for visualizing data. Data visualization is an easier way of presenting the data, however complex it is, to analyze trends and relationships amongst variables with the help of pictorial representation.
 
